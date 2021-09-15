@@ -29,8 +29,8 @@ Week 15 –Review
 
 1. [An R Companion for Introduction to Data Mining](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/book/) by Michael Hahsler
 
-2. [Data Mining: Practical Machine Learning Tools and Techniques](https://www.cs.waikato.ac.nz/~ml/weka/book.html) by  by Ian H. Witten and Eibe Frank and Mark A. Hall and Christopher J. Pal and
+2. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 
-3. [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) by Ron Zacharski
+3. [Data Mining: Practical Machine Learning Tools and Techniques](https://www.cs.waikato.ac.nz/~ml/weka/book.html) by  by Ian H. Witten and Eibe Frank and Mark A. Hall and Christopher J. Pal and
 
-4. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+
