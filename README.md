@@ -1,21 +1,22 @@
 # Course Introduction to Data Mining
 
 ## Syllabus 
-Week 1 – Introduction to data mining and tools (python pandas, weka and R)
-Week 2 – Data Types and statistical measures
-Week 3 – Data preprocessing and cleaning 
-Week 4 – Data import to tools from different environments (databases, flat files) 
-Week 5 – Exploring data and visualization
-Week 6 – Classification 1
-Week 7 – Classification 2
-Week 8 – Association rule mining 1
-Week 9 – Association rule mining 2
-Week 10 – Clustering 1
-Week 11 – Clustering 2
-Week 12 – Clustering 3
-Week 13 – Anomaly detection
-Week 14 – Recommendation systems
-Week 15 –Review 
+
+	- Week 1 – Introduction to data mining and tools (python pandas, weka and R)
+	- Week 2 – Data Types and statistical measures
+	- Week 3 – Data preprocessing and cleaning 
+	- Week 4 – Data import to tools from different environments (databases, flat files) 
+	- Week 5 – Exploring data and visualization
+	- Week 6 – Classification 1
+	- Week 7 – Classification 2
+	- Week 8 – Association rule mining 1
+	- Week 9 – Association rule mining 2
+	- Week 10 – Clustering 1
+	- Week 11 – Clustering 2
+	- Week 12 – Clustering 3
+	- Week 13 – Anomaly detection
+	- Week 14 – Recommendation systems
+	- Week 15 –Review 
 
 
 # Lessons in 2021
