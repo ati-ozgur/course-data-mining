@@ -21,6 +21,10 @@
 
 # Lessons in 2021
 
+- [2021-10-07](2021/2021-10-07.md)
+
+
+
 # Text Books
 
 1. [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php) by Pang-Ning Tan and Michael Steinbach and Anuj Karpatne and Vipin Kumar
