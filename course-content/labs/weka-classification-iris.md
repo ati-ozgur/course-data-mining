@@ -12,12 +12,12 @@
 
 4. You need to see Weka GUI chooser
 
-![Weka GUI chooser](../images/Weka-GUI-Chooser.png)
+![Weka GUI chooser](../images/weka-images/Weka-GUI-Chooser.png)
 
 
 5. Open Explorer by clicking explorer button
 
-![Weka Explorer](../images/weka-explorer.png)
+![Weka Explorer](../images/weka-images/weka-explorer.png)
 
 
 6. From Preprocess tab click open file
