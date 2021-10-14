@@ -27,8 +27,8 @@ Note you need to access raw version for downloading.
 
 	from sklearn.datasets import load_iris
 
-	df = load_iris()
-	print(df.head())
+	dataset = load_iris()
+	print(dataset.head())
 
 ## Weka usage
 
