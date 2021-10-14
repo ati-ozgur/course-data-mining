@@ -65,3 +65,34 @@ Most important parts for now is
 	- Incorrectly Classified Instances    
 	- Confusion matrix
 
+13. from classifier choose Functions->MultiLayerPerceptron and click start
+
+14. Click MultilayerPerceptron beside the choose button, you will see hyper parameters of MultilayerPerceptron algorithm.
+Change hidden layers parameter from a to 3 and click ok.
+Then click start again.
+
+
+
+15. from classifier try with following classifiers
+
+	- Functions
+		- Logistic (Logistic regression)		
+		- MultiLayerPerceptron (Feed forward Neural Network)
+	- lazy
+		- 1BK (K-nearest neighbor)
+	- meta
+		- AdaboostM1
+		- Bagging
+		-
+	- rules
+		- decision table
+		- OneR
+		- ZeroR
+	- trees
+		- J48
+		- Random forest
+
+
+We will learn how they work for most of these classifiers in our class.
+
+
