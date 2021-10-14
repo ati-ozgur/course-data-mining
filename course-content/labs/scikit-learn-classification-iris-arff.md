@@ -7,7 +7,7 @@
 
 3. run following python file in the command line
 
-[classification_iris_full_data_csv.py](classification_iris_full_data_scipy_arff.py)
+[classification_iris_full_data_arff.py](classification_iris_full_data_scipy_arff.py)
 
 Here, we load iris dataset from a csv file
 

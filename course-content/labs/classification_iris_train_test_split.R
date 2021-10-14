@@ -14,5 +14,5 @@ predicted_values = predict(model,test_data[,1:4])
 correctly_predicted = sum(predicted_values == test_data[,"Species"])
 print(paste("Correctly predicted",correctly_predicted))
 
-´accuracy = correctly_predicted / nrow(df)
+accuracy = correctly_predicted / nrow(test_data)
 print(paste("accuracy",accuracy))
