@@ -96,3 +96,16 @@ Then click start again.
 We will learn how they work for most of these classifiers in our class.
 
 
+16. Do the following
+
+	1. Close explorer window. 
+	2. Go to Weka GUI Chooser.
+	3. Open package manager from tools->Package Manager or Ctrl-U
+	4. choose extraTrees in package column and click install
+	5. from the window click yes
+	6. close package manager window
+	7. open explorer
+	8. load iris dataset again
+	9. from classify choose
+		trees->ExtraTree
+	10. click start
