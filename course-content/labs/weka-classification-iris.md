@@ -20,6 +20,20 @@
 ![Weka Explorer](../images/weka-images/weka-explorer.png)
 
 
-6. From Preprocess tab click open file
+6. From Preprocess tab click open file and load iris dataset
 
-7
+![Weka Open File](../images/weka-images/weka-open-file.png)
+
+
+7. You should see iris data set loaded to your workbench
+
+![Weka iris dataset loaded](../images/weka-images/weka-iris-loaded.png)
+
+8. In the attributes tab choose different attributes and 
+
+	- see how their statistical summaries change in the selected attribute window part
+	- see how their histograms change in the visualization window part
+
+See an example for petal width below.
+
+![Weka selected attribute petal width ](../images/weka-images/weka-selected-attribute-petalwidth.png)
