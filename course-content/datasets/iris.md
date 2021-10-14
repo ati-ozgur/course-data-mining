@@ -8,6 +8,8 @@ See [wikipedia page of iris data set](https://en.wikipedia.org/wiki/Iris_flower_
 
 Iris data set can be downloaded from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 You can also download it from course repository in the following formats.
+ - [csv](iris.csv)
+ - [arff](iris.arff)
 
 
 
