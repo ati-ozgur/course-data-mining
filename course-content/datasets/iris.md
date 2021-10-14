@@ -8,8 +8,9 @@ See [wikipedia page of iris data set](https://en.wikipedia.org/wiki/Iris_flower_
 
 Iris data set can be downloaded from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 You can also download it from course repository in the following formats.
- - [csv](iris.csv)
- - [arff](iris.arff)
+Note you need to access raw version for downloading.
+ - [iris.csv](iris.csv)
+ - [iris.arff](iris.arff)
 
 
 
@@ -33,6 +34,8 @@ You can also download it from course repository in the following formats.
 
 Iris data set is among the example datasets of weka distribution.
 It can be found in data directory of weka installation.
+[iris.arff] is also provided in course repository.
+
 
 
 ## Others
