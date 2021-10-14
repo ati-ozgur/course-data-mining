@@ -1,5 +1,5 @@
 
-# Simple classification example on iris arff dataset using weka
+# Simple classification example on iris arff dataset using Python scikit-learn
 
 1. [install python and conda](../installation-python-conda.md) on your computer
 
