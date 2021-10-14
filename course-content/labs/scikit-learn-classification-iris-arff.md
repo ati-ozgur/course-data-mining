@@ -1,5 +1,5 @@
 
-# Simple classification example on iris csv dataset using weka
+# Simple classification example on iris arff dataset using weka
 
 1. [install python and conda](../installation-python-conda.md) on your computer
 
@@ -7,7 +7,7 @@
 
 3. run following python file in the command line
 
-[classification_iris_full_data_csv.py](classification_iris_full_data_csv.py)
+[classification_iris_full_data_csv.py](classification_iris_full_data_scipy_arff.py)
 
 Here, we load iris dataset from a csv file
 
@@ -16,7 +16,7 @@ Here, we load iris dataset from a csv file
 5. run following python file in the command line. And see the difference between accuracy values.
 Why this much difference?
 
-[classification_iris_train_test_split.py](classification_iris_train_test_split_csv.py)
+[classification_iris_train_test_split.py](classification_iris_train_test_split_scipy_arff.py)
 
 
 

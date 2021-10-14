@@ -1,14 +1,13 @@
 from sklearn.naive_bayes import GaussianNB
 from sklearn.model_selection import train_test_split
-import pandas as pd
+from scipy.io.arff import loadarff
 
 
-
-df = pd.read_csv("../datasets/iris.csv")
+data, meta = loadarff("../datasets/iris.arff")
 columns = ["sepallength","sepalwidth","petallength","petalwidth"]
-X_full = df[columns].values
-y_full = df["class"].values
 
+X_full = data[columns]
+y_full = data["class"]
 
 X_train, X_test, y_train, y_test = train_test_split(X_full, y_full, test_size=0.33, random_state=42)
 
