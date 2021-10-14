@@ -8,6 +8,6 @@
 
 3. run following python file in the command line
 
-[classification_iris.py](classification_iris.py)
+[classification_iris_full_data.py](classification_iris_full_data.py)
 
 
