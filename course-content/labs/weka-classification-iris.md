@@ -43,5 +43,25 @@ See an example for petal width below.
 
 9. Goto classify tab
 
+- select classifiers->bayes->naive bayes
+- from **test options** select use training set
+- click run
+
 ![Weka classify tab](../images/weka-images/weka-classify.png)
+
+
+10. you should see the run results in the **classifier output** window part.
+Most important parts for now is 
+
+	- Correctly Classified Instances 
+	- Incorrectly Classified Instances    
+	- Confusion matrix
+
+
+11. from **test options** select Percentage split and use %60 for value. Click start again.
+
+12. How the following values are changed? Can you guess why?
+	- Correctly Classified Instances 
+	- Incorrectly Classified Instances    
+	- Confusion matrix
 
