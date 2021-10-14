@@ -22,7 +22,10 @@
 
 6. From Preprocess tab click open file and load iris dataset
 
-![Weka Open File](../images/weka-images/weka-open-file.png)
+![Weka Open File 1](../images/weka-images/weka-open-file.png)
+
+
+![Weka Open File 2](../images/weka-images/weka-open-file2.png)
 
 
 7. You should see iris data set loaded to your workbench
@@ -37,3 +40,8 @@
 See an example for petal width below.
 
 ![Weka selected attribute petal width ](../images/weka-images/weka-selected-attribute-petalwidth.png)
+
+9. Goto classify tab
+
+![Weka classify tab](../images/weka-images/weka-classify.png)
+
