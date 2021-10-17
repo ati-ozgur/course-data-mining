@@ -11,7 +11,7 @@ columns = ["sepallength","sepalwidth","petallength","petalwidth"]
 X_full = data[columns]
 y_full = data["class"]
 
-# convert [(..,..,..),(..,..,..)] to [[..,..,..], [..,..,..], [..,..,..])
+# convert [(..,..,..),(..,..,..)] to [[..,..,..], [..,..,..], [..,..,..]]
 X_full = np.array(X_full.tolist())
 
 clf = GaussianNB()
