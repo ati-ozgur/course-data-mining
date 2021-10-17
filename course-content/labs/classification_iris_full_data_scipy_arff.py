@@ -10,6 +10,10 @@ columns = ["sepallength","sepalwidth","petallength","petalwidth"]
 
 X_full = data[columns]
 y_full = data["class"]
+
+# convert [(..,..,..),(..,..,..)] to [[..,..,..], [..,..,..], [..,..,..]]
+X_full = np.array(X_full.tolist())
+
 clf = GaussianNB()
 clf.fit(X_full,y_full)
 
