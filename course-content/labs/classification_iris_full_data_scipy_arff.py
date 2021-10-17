@@ -1,4 +1,4 @@
-
+import numpy as np 
 from scipy.io.arff import loadarff
 
 
@@ -10,6 +10,9 @@ columns = ["sepallength","sepalwidth","petallength","petalwidth"]
 
 X_full = data[columns]
 y_full = data["class"]
+
+X_full = np.array(X_full.tolist())
+
 clf = GaussianNB()
 clf.fit(X_full,y_full)
 
