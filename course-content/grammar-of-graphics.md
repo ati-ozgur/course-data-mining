@@ -31,7 +31,9 @@ To be able understand ggplot2, we need to understand following concepts in order
 
 
 - [altair](https://altair-viz.github.io/altair-tutorial/README.html)
+
 	- [Altair simple chart tutorial](https://colab.research.google.com/github/altair-viz/altair-tutorial/blob/master/notebooks/02-Simple-Charts.ipynb)
+	- [Altair slides](https://speakerdeck.com/jakevdp/altair-tutorial-intro-pycon-2018)
 
 - [yhat ggplot](https://github.com/yhat/ggpy) it is old and not updated in last 5 years
 
