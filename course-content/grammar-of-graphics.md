@@ -17,12 +17,23 @@ To be able understand ggplot2, we need to understand following concepts in order
 8. Theme
 
 
+- [introduction to ggplot2 and grammar of graphics](../course-content/introduction-to-ggplot2.pdf)
+
+- [A good short intro to grammar of graphics and ggplot2 in R](https://www.youtube.com/watch?v=HPJn1CMvtmI)
+
+
 ### Python Grammar of Graphics
 
-- plotline
-- yhat ggplot
-- altair
+- [plotnine](https://github.com/has2k1/plotnine)
 
+	- [plotnine tutorial 1](https://pythonawesome.com/a-grammar-of-graphics-for-python/)
+	- [plotnine tutorial 2](https://realpython.com/ggplot-python/)
+
+
+- [altair](https://altair-viz.github.io/altair-tutorial/README.html)
+	- [Altair simple chart tutorial](https://colab.research.google.com/github/altair-viz/altair-tutorial/blob/master/notebooks/02-Simple-Charts.ipynb)
+
+- [yhat ggplot](https://github.com/yhat/ggpy) it is old and not updated in last 5 years
 
 ### R Grammar of Graphics
 
@@ -32,11 +43,5 @@ To be able understand ggplot2, we need to understand following concepts in order
 
 
 
-- [introduction to ggplot2 and grammar of graphics](../course-content/introduction-to-ggplot2.pdf)
-
-
-# Video
-
-[A good short intro to ggplot2 in R](https://www.youtube.com/watch?v=HPJn1CMvtmI)
 
 
