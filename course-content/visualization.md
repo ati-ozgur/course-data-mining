@@ -100,9 +100,7 @@ Most of the time, trends and relationships are given as visualizations and exact
 - https://ctl.mit.edu/sites/ctl.mit.edu/files/2020-09/State_Supply_Chain_Sustainability_MIT_CTL_CSCMP_0.pdf
 
 
-### Examples figures in R
 
-- [Quickly Exploring Data in R Graphics Cookbook, 2nd edition](https://r-graphics.org/chapter-quick)
 
 
 
@@ -114,12 +112,21 @@ Most of the time, trends and relationships are given as visualizations and exact
 - https://www.intellspot.com/types-graphs-charts/
 - https://infogram.com/blog/do-you-know-when-to-use-tables-vs-charts/
 
+### Weka visualization
+
+Weka provides ready visualization when you load dataset to weka.
+But you have only basic customization for these visualizations.
+
+
+### Python visualization
+
+Python have a lot of different visualization libraries.
+Most known and most used is matplotlib.
+
 
 ### R Visualization
 
 
-- [ggplot main help](https://ggplot2.tidyverse.org/)
-- [ggplot2 cheatsheat](https://raw.githubusercontent.com/rstudio/cheatsheets/master/data-visualization.pdf)
-- [introverse help for ggplot2](https://spielmanlab.github.io/introverse/articles/introverse_online.html)
+- [Quickly Exploring Data in R Graphics Cookbook, 2nd edition](https://r-graphics.org/chapter-quick)
 
 

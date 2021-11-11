@@ -17,10 +17,26 @@ To be able understand ggplot2, we need to understand following concepts in order
 8. Theme
 
 
+### Python Grammar of Graphics
 
-- [introduction to ggplot2](../course-content/introduction-to-ggplot2.pdf)
+- plotline
+- yhat ggplot
+- altair
+
+
+### R Grammar of Graphics
+
+- [ggplot main help](https://ggplot2.tidyverse.org/)
+- [ggplot2 cheatsheat](https://raw.githubusercontent.com/rstudio/cheatsheets/master/data-visualization.pdf)
+- [introverse help for ggplot2](https://spielmanlab.github.io/introverse/articles/introverse_online.html)
+
+
+
+- [introduction to ggplot2 and grammar of graphics](../course-content/introduction-to-ggplot2.pdf)
 
 
 # Video
 
-[A good short intro to ggplot2](https://www.youtube.com/watch?v=HPJn1CMvtmI)
+[A good short intro to ggplot2 in R](https://www.youtube.com/watch?v=HPJn1CMvtmI)
+
+
