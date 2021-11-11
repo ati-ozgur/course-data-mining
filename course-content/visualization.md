@@ -90,6 +90,9 @@ Tables are useful for showing exact data.
 Most of the time, trends and relationships are given as visualizations and exact data is given as a table.
 
 
+### Accent principles
+
+Read [Visualization Accent principles](visualization-accent-principles.md).
 
 
 
