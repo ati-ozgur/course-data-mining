@@ -96,6 +96,11 @@ Read [Visualization Accent principles](visualization-accent-principles.md).
 
 
 
+### Examples in matplotlib
+
+see our examples in [following folder](chart-examples-for-matplotlib)
+
+
 ### Reports to look at
 
 - https://www.kaggle.com/kaggle-survey-2020
