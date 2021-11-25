@@ -3,6 +3,9 @@
 
 For an in-depth knowledge of ggplot2, book: [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) could be read.
 But for out introductory course, following slides [introduction to ggplot2 and grammar of graphics](../course-content/introduction-to-ggplot2.pdf) will be enough.
+Video of the above slides from original author](https://www.youtube.com/watch?v=h29g21z0a68).
+
+
 
 
 We will go over above slides and website [pythonplot.com](https://pythonplot.com/) together.
