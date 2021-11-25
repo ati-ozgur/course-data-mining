@@ -3,7 +3,7 @@
 
 For an in-depth knowledge of ggplot2, book: [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) could be read.
 But for out introductory course, following slides [introduction to ggplot2 and grammar of graphics](../course-content/introduction-to-ggplot2.pdf) will be enough.
-[Video of the above slides from original author](https://www.youtube.com/watch?v=HPJn1CMvtmI) are here.
+
 
 We will go over above slides and website [pythonplot.com](https://pythonplot.com/) together.
 
@@ -24,6 +24,9 @@ To be able understand ggplot2, we need to understand following concepts in order
 8. Theme
 
 
+### Videos
+
+- [Good short introduction to ggplot](https://www.youtube.com/watch?v=HPJn1CMvtmI) are here.
 
 
 ### Python Grammar of Graphics
