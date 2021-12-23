@@ -1,4 +1,4 @@
 # lab-05
 
-please do the following tutorials
+Please repeat the [slides](../course-content/DataMiningWithWeka-SimpleClassifiers.pdf) in weka
 
