@@ -15,7 +15,7 @@
 	- Week 11 – Clustering 1
 	- Week 12 – Clustering 2
 	- Week 13 – Clustering 3
-	- Week 14 –Review 
+	- Week 14 – Review 
 
 
 # Lessons in 2021
